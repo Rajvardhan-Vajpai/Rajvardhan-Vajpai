@@ -1,0 +1,48 @@
+<h1 align="center">Hey, I'm Rajvardhan Vajpai 👋</h1>
+
+<p align="center">
+  🎓 First Year AI/ML Engineering Student at Lovely Professional University &nbsp;|&nbsp; Punjab, India
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🔭 Currently building **BloomNet** — a geo-coordinated food donation platform
+- 🌱 Currently learning: Python, C, DBMS
+- 🤝 Open to contributing to beginner-friendly open source projects
+- 💬 Ask me about: Python, HTML, JavaScript, Pygame
+- 📫 Reach me at: vajpairajvardhan6@gmail.com
+
+---
+
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Pygame](https://img.shields.io/badge/-Pygame-000000?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🌸 [BloomNet](https://github.com/Rajvardhan-Vajpai/BloomNet_main) | Food donation platform with live map & smart geo-matching |
+| 🎮 [Flappy Bird](https://github.com/Rajvardhan-Vajpai/Flappy-Bird) | Flappy Bird remake in Python & Pygame with sound effects & high score tracking |
+| ♻️ [AI Carbon Credit Score](https://github.com/Rajvardhan-Vajpai/ai-sustainability-and-carbon-credit-score) | AI-powered sustainability scoring system |
+| 📚 [LibraSense](https://github.com/Rajvardhan-Vajpai/LibraSense) | Python-based library management system |
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajvardhan-vajpai-3b0924374)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vajpairajvardhan6@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Rajvardhan-Vajpai)
