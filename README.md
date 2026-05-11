@@ -46,3 +46,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajvardhan-vajpai-3b0924374)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vajpairajvardhan6@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Rajvardhan-Vajpai)
+
+---
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Rajvardhan-Vajpai/Rajvardhan-Vajpai/blob/output/github-contribution-grid-snake-dark.svg)
