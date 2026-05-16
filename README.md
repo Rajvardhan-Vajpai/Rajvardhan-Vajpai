@@ -1,4 +1,5 @@
 ![Banner](https://raw.githubusercontent.com/Rajvardhan-Vajpai/Rajvardhan-Vajpai/main/banner.svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9B30FF&center=true&vCenter=true&width=680&lines=AI%2FML+Engineering+Student+%40+LPU;Coder+%7C+Builder+%7C+Creator;Building+BloomNet+%F0%9F%8C%B8;Python+%7C+Node.js+%7C+Pygame+Dev;Always+Learning%2C+Always+Building+%E2%9A%A1)](https://git.io/typing-svg)
 <h1 align="center">Hey, I'm Rajvardhan Vajpai 👋</h1>
 
 <p align="center">
