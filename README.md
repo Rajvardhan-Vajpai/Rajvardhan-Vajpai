@@ -38,7 +38,7 @@
 | 🎮 [Flappy Bird](https://github.com/Rajvardhan-Vajpai/Flappy-Bird) | Flappy Bird remake in Python & Pygame with sound effects & high score tracking |
 | ♻️ [AI Carbon Credit Score](https://github.com/Rajvardhan-Vajpai/ai-sustainability-and-carbon-credit-score) | AI-powered sustainability scoring system |
 | 📚 [LibraSense](https://github.com/Rajvardhan-Vajpai/LibraSense) | Python-based library management system |
-
+| 💰 [Wallet DBMS CLI](https://github.com/Rajvardhan-Vajpai/DBMS_CLI) | CLI-based wallet system with SQLite and secure bcrypt PIN hashing |
 ---
 
 ### 📫 Connect with me
