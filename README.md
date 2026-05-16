@@ -1,3 +1,4 @@
+![Banner](https://raw.githubusercontent.com/Rajvardhan-Vajpai/Rajvardhan-Vajpai/main/banner.svg)
 <h1 align="center">Hey, I'm Rajvardhan Vajpai 👋</h1>
 
 <p align="center">
