@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rajvardhan%20Vajpai&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20in%20the%20Making%20%F0%9F%A7%A0&descAlignY=58&descSize=18&animation=fadeIn" />
+![Banner](./banner.svg)
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=600&lines=Building+BloomNet+%F0%9F%8C%B8;AI+%2F+ML+Student+%40+LPU+%F0%9F%8E%93;Open+Source+Contributor+%F0%9F%94%A5;Turning+Ideas+into+Code+%E2%9C%A8)](https://git.io/typing-svg)
