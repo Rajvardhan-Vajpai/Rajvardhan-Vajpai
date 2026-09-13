@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-- 🎓 **First Year AI/ML Engineering Student** at Lovely Professional University, Punjab 🇮🇳
+- 🎓 Second Year AI/ML Engineering Student** at Lovely Professional University, Punjab 🇮🇳
 - 🔭 Currently building **BloomNet** — a geo-coordinated food donation platform 🌸
 - 🌱 Learning: **Python · C · DBMS · Machine Learning**
 - 💬 Ask me about: **Python, HTML, JavaScript, Pygame**
